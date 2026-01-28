@@ -8,17 +8,17 @@ This project showcases practical SQL skills and analytical techniques employed b
 
 ## Objectives
 
-1. - **Create and manage a retail sales database**: Build a structured SQL database to store online furniture sales data efficiently.  
+- **Create and manage a retail sales database**: Build a structured SQL database to store online furniture sales data efficiently.  
 
-2. - **Clean and preprocess data using SQL**: Identify and remove null or inconsistent records to ensure accurate analysis.  
+- **Clean and preprocess data using SQL**: Identify and remove null or inconsistent records to ensure accurate analysis.  
 
-3. - **Explore data using SQL queries**: Perform exploratory analysis to understand customer behavior, product trends, and sales patterns.  
+- **Explore data using SQL queries**: Perform exploratory analysis to understand customer behavior, product trends, and sales patterns.  
 
-4. - **Analyse revenue and profitability**: Determine which products, categories, and subcategories drive the most revenue.  
+- **Analyse revenue and profitability**: Determine which products, categories, and subcategories drive the most revenue.  
  
-5. - **Evaluate customer preferences and behavior**: Examine customer ratings, payment methods, and assembly service usage to uncover insights.  
+- **Evaluate customer preferences and behavior**: Examine customer ratings, payment methods, and assembly service usage to uncover insights.  
 
-6. - **Generate actionable business insights**: Use SQL queries to support strategic decisions in product assortment, pricing, and service offerings.
+- **Generate actionable business insights**: Use SQL queries to support strategic decisions in product assortment, pricing, and service offerings.
 
 ## Project Structure
 
