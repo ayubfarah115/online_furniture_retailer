@@ -22,12 +22,7 @@ This project showcases practical SQL skills and analytical techniques employed b
 
 ## Project Structure
 
-### 1. Data Cleaning
-
-- **Record Count**: Determine the total number of records in the dataset.
-- **Customer Count**: Find out how many unique customers are in the dataset.
-- **Category Count**: Identify all unique product categories in the dataset.
-- **Null Value Check**: Check for any null values in the dataset and delete records with missing data.
+### Data Cleaning
 
 ```sql
 
@@ -59,13 +54,9 @@ WHERE brand IS NULL
    OR shipping_cost IS NULL
    OR assembly_cost IS NULL
    OR customer_rating IS NULL;
+```
 
-
-### 3. Data Analysis & Findings
-
-The following SQL queries were developed to answer specific business questions:
-
-1. **Which product categories generate the most revenue?**:
+### 1. **Which product categories generate the most revenue?**:
 ```sql
 SELECT
     product_category,
